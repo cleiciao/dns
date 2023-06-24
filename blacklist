@@ -1,3 +1,4 @@
+server:
 local-zone: "paxtontrade.com" always_refused
 local-zone: "ipromarkets.com" always_refused
 local-zone: "zetatraders.com" always_refused
