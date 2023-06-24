@@ -5,3 +5,4 @@ local-zone: "paxtontrade.com" always_refuse
 local-zone: "ventuscapital.co.uk" always_refuse
 local-zone: "marcosdoval.com.br" always_refuse
 local-zone: "facebook.com" always_refuse
+local-zone: "fgmarkets.com" always_refuse
