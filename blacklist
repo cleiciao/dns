@@ -8,4 +8,4 @@ local-zone: "facebook.com" always_refuse
 local-zone: "fgmarkets.com" always_refuse
 local-zone: "glastrox.com" always_refuse
 local-zone: "bradesco.com" always_refuse
-
+local-zone: "uol.com" always_refuse
