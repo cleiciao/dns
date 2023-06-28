@@ -1,10 +1,11 @@
 server:
-local-zone: "facebook.com" always_refuse
 local-zone: "paxtontrade.com" always_refuse
 local-zone: "ventuscapital.co.uk" always_refuse
 local-zone: "marcosdoval.com.br" always_refuse
 local-zone: "fgmarkets.com" always_refuse
 local-zone: "glastrox.com" always_refuse
+
+
 
 
 
@@ -94,9 +95,6 @@ local-zone:	"ytmp3.ru"	always_refuse
 local-zone:	"ytmp3eu.com"	always_refuse
 local-zone:	"ytmp3free.cc"	always_refuse
 local-zone:	"ytop1.com"	always_refuse
-
-
-
 local-zone:	"yut.techiwala.com"	always_refuse
 local-zone:	"mp3juices.zone"	always_refuse
 local-zone:	"getx.topsandtees.space"	always_refuse
@@ -149,8 +147,6 @@ local-zone:	"muporty.site"	always_refuse
 local-zone:	"musiky.co"	always_refuse
 local-zone:	"notube.net"	always_refuse
 local-zone:	"flvto.ch"	always_refuse
-
-
 local-zone:	"flvto.me"	always_refuse
 local-zone:	"flvtomp3.cc"	always_refuse
 local-zone:	"mp3cielo.live"	always_refuse
@@ -168,9 +164,108 @@ local-zone:	"flvto.pro"	always_refuse
 local-zone:	"y2mate.blue"	always_refuse
 local-zone:	"y2mate.tech"	always_refuse
 local-zone:	"ytmp3.wtf"	always_refuse
-local-zone:	"ytmp3free.net”	always_refuse
+local-zone:	"ytmp3free.net"	always_refuse
 local-zone:	"ytmp3free.org"	always_refuse
 local-zone:	"2conv.org"	always_refuse
+local-zone:	"converto.re"	always_refuse
+local-zone:	"flvto.bid"	always_refuse
+local-zone:	"notube.icu"	always_refuse
+local-zone:	"www-ytmp3.com"	always_refuse
+local-zone:	"y2mate.one"	always_refuse
+local-zone:	"y2mate.party"	always_refuse
+local-zone:	"2mate.tel"	always_refuse
+local-zone:	"y2mate.to"	always_refuse
+local-zone:	"y2matemp3.online"	always_refuse
+local-zone:	"ymp4.cc"	always_refuse
+local-zone:	"ymp4.pro"	always_refuse
+local-zone:	"ymp4.xyz"	always_refuse
+local-zone:	"yout.pw"	always_refuse
+local-zone:	"ytmp3.mom"	always_refuse
+local-zone:	"ytmp3.bz"	always_refuse
+local-zone:	"ytmp3.digital"	always_refuse
+local-zone:	"ytmp3.icu"	always_refuse
+local-zone:	"ytmp3.men"	always_refuse
+local-zone:	"ytmp3.net"	always_refuse
+local-zone:	"ytmp3.ooo"	always_refuse
+local-zone:	"ytmp3.rip"	always_refuse
+local-zone:	"ytmp3.sh"	always_refuse
+local-zone:	"ytmp34.cc"	always_refuse
+local-zone:	"ytmp3cc.cx"	always_refuse
+local-zone:	"ytmp3id.net"	always_refuse
+local-zone:	"ytmp3.kim"	always_refuse
+local-zone:	"em.y2mate.ac"	always_refuse
+local-zone:	"yt2mp3.cn"	always_refuse
+local-zone:	"yt2mp3.ninja"	always_refuse
+local-zone:	"ytmp3.ch"	always_refuse
+local-zone:	"ytmp3.co.com"	always_refuse
+local-zone:	"ytmp3.is"	always_refuse
+local-zone:	"save-from.com"	always_refuse
+local-zone:	"ss-youtube.com"	always_refuse
+local-zone:	"savefrom.mobi"	always_refuse
+local-zone:	"savefrom.biz"	always_refuse
+local-zone:	"savefrom.app"	always_refuse
+local-zone:	"savef.net"	always_refuse
+local-zone:	"ytmp3to.com"	always_refuse
+local-zone:	"ytmp3.blue"	always_refuse
+local-zone:	"flv2all.com"	always_refuse
+local-zone:	"flvto.stream"	always_refuse
+local-zone:	"ytmp3.network"	always_refuse
+local-zone:	"ytmp3hub.com"	always_refuse
+local-zone:	"notube.me"	always_refuse
+local-zone:	"converterbear.pro"	always_refuse
+local-zone:	"yt1s.bz"	always_refuse
+local-zone:	"yt1s.link"	always_refuse
+local-zone:	"yt1s.lol"	always_refuse
+local-zone:	"yt1s.ltd"	always_refuse
+local-zone:	"yt1s.online"	always_refuse
+local-zone:	"yt1s.works"	always_refuse
+local-zone:	"yt1ss.org"	always_refuse
+local-zone:	"yt1s.nu"	always_refuse
+local-zone:	"yt1ss.pro"	always_refuse
+local-zone:	"yt1ss.net"	always_refuse
+local-zone:	"yt1s.youtubemini.com"	always_refuse
+local-zone:	"fltvo.xyz"	always_refuse
+local-zone:	"flvto.tools"	always_refuse
+local-zone:	"mp3cielo.co"	always_refuse
+local-zone:	"mp3cielo.ws"	always_refuse
+local-zone:	"youtube-converter.top"	always_refuse
+local-zone:	"ytmp3.cafe"	always_refuse
+local-zone:	"ytmp3.city"	always_refuse
+local-zone:	"ytmp3.com.se"	always_refuse
+local-zone:	"ytmp3.gratis"	always_refuse
+local-zone:	"ytmp3.page"	always_refuse
+local-zone:	"ytmp3.video"	always_refuse
+local-zone:	"ytmp3.nu"	always_refuse
+local-zone:	"flvto.bz"	always_refuse
+local-zone:	"ytmp3cut.com"	always_refuse
+local-zone:	"notube.land"	always_refuse
+local-zone:	"svfrom.net"	always_refuse
+local-zone:	"www-savefrom.com"	always_refuse
+local-zone:	"y2mate.cool"	always_refuse
+local-zone:	"y2mate.wtf"	always_refuse
+local-zone:	"svfromnet.to"	always_refuse
+local-zone:	"y2mate.la"	always_refuse
+local-zone:	"y2mate.com.co"	always_refuse
+local-zone:	"y2meta.cfd"	always_refuse
+local-zone:	"savefrom.kim"	always_refuse
+local-zone:	"y2mate.lol"	always_refuse
+local-zone:	"y2-mate.guru"	always_refuse
+local-zone:	"savefrom.rip"	always_refuse
+local-zone:	"snapsave.io"	always_refuse
+local-zone:	"myfreemp3juices.cc"	always_refuse
+local-zone:	"savetube.app"	always_refuse
+local-zone:	"getfvid.com"	always_refuse
+local-zone:	"ytshorts.savetube.me"	always_refuse
+local-zone:	"clipconverter.cc"	always_refuse
+local-zone:	"musicdownload.plus"	always_refuse
+local-zone:	"tubidy.mobi"	always_refuse
+local-zone:	"bestmp3converter.com"	always_refuse
+local-zone:	"y2bs.com"	always_refuse
+local-zone:	"dirpy.com"	always_refuse
+
+
+
+
 
 
 
