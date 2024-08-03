@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # URL do script Python hospedado
-SCRIPT_URL="https://raw.githubusercontent.com/cleiciao/dns/main/block.py"
+SCRIPT_URL="https://raw.githubusercontent.com/user/repo/branch/rpz_script.py"
 
 # Caminho para salvar o script baixado
-SCRIPT_PATH="/etc/unbound/block.py""
+SCRIPT_PATH="/tmp/rpz_script.py"
 
 # Baixar o script usando curl
 echo "Baixando o script de RPZ..."
