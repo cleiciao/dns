@@ -3,7 +3,7 @@ $TTL 2h
   IN NS  localhost.
 ; RPZ manual block hosts
 *.flixtorrentx.org CNAME .
-
+*.filmestorrentninja.co CNAME .
 
 
 
