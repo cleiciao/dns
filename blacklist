@@ -3,8 +3,10 @@ $TTL 2h
   IN NS  localhost.
 ; RPZ manual block hosts
 *.flixtorrentx.org CNAME .
-*.filmestorrentninja.co rpz-passthru.
-
+*.filmestorrentninja.co CNAME .
+*.megaflixfilmeshd.online CNAME .
+*.megatorrentx.com.br CNAME .
+*.megatorrents.net CNAME .
 
 
 
