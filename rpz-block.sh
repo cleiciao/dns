@@ -1,18 +1,22 @@
 #!/bin/bash
 
-# URL do script Python hospedado com o token de segurança
-SCRIPT_URL="https://r3o0.mi.idrivee2-30.com/bloqueio.py?token=4IFw6mP7DopyYMb4HQ8pModJfb3eWyn9gMZnssMn"
+# Credenciais de acesso ao bucket IDrive
+ACCESS_KEY="qOQfAHozHj0nPqw8Kv1G"
+SECRET_ACCESS="4IFw6mP7DopyYMb4HQ8pModJfb3eWyn9gMZnssMn"
+
+# URL do script Python hospedado no IDrive
+SCRIPT_URL="r3o0.mi.idrivee2-30.com/bloqueio.py"
 
 # Caminho para salvar o script baixado
-SCRIPT_PATH="/etc/unbound/bloqueio.py"
+SCRIPT_PATH="//etc/unbound/bloqueio.py"
 
-# Baixar o script Python usando curl com o token de segurança
+# Baixar o script Python usando curl com credenciais de acesso
 echo "Baixando o script Python..."
-curl -o $SCRIPT_PATH "$SCRIPT_URL"
+curl -H "Authorization: Bearer $ACCESS_KEY:$SECRET_ACCESS" -o $SCRIPT_PATH "$SCRIPT_URL"
 
 # Verificar se o download foi bem-sucedido
 if [ $? -ne 0 ]; then
-  echo "Falha ao baixar o script. Verifique a URL e o token de segurança."
+  echo "Falha ao baixar o script. Verifique a URL e as credenciais de acesso."
   exit 1
 fi
 
