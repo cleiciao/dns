@@ -31,14 +31,3 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Script executado com sucesso."
-
-# Adicionar agendamento ao crontab
-echo "Agendando a execução diária do script no crontab..."
-(crontab -l ; echo "0 3 * * * python3 $SCRIPT_PATH") | crontab -
-
-if [ $? -eq 0 ]; then
-  echo "Script agendado com sucesso para ser executado diariamente às 3:00 AM."
-else
-  echo "Falha ao agendar o script. Verifique as permissões do crontab."
-  exit 1
-fi
