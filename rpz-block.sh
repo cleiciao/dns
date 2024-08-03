@@ -37,9 +37,3 @@ echo "Agendando a execução diária do script no crontab..."
 CRON_JOB="0 3 * * * python3 $SCRIPT_PATH"
 (crontab -l 2>/dev/null; echo "$CRON_JOB") | crontab -
 
-if [ $? -eq 0 ]; then
-  echo "Script agendado com sucesso para ser executado diariamente às 3:00 AM."
-else
-  echo "Falha ao agendar o script. Verifique as permissões do crontab."
-  exit 1
-fi
