@@ -7,7 +7,7 @@ $TTL 2h
 *.megaflixfilmeshd.online CNAME .
 *.megatorrentx.com.br CNAME .
 *.megatorrents.net CNAME .
-
+*.xilften.in CNAME .
 
 
 
